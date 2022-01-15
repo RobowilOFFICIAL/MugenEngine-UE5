@@ -1,0 +1,33 @@
+# Blender MTL File: 'Work (2).blend'
+# Material Count: 3
+
+newmtl cmn_metal_km_goalring02_dif
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd cmn_metal_km_goalring02_dif.png
+
+newmtl cmn_metal_km_goalring04_dif
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd cmn_metal_km_goalring04_dif.png
+map_d cmn_metal_km_goalring04_dif.png
+
+newmtl cmn_metal_ms_ring_dif
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd cmn_metal_ms_ring_dif.png
