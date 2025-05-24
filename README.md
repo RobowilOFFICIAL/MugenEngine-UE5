@@ -8,6 +8,8 @@ That said, I would highly advise using something like [DashEngine 1.3](https://g
 # MugenEngine-UE5
 The Sonic Infinity Engine by Oban (which was infamously used for the terrible fan-game Sonic Omens), ported to Unreal Engine 5 based on the Max & Adam build. Requires Unreal Engine 5.5.4 or higher.
 
+Gameplay showcase video: https://youtu.be/9-f0ZzGos_Y
+
 ## Changes besides the obvious upgrade from UE4 to UE5:
 - The controls mapping has been changed to match Sonic X Shadow Generations. Boost is now mapped to the right trigger, and jumps/homing attacks can now be done on both A and X. Shadow's chaos control has been mapped to the left trigger.
 - [AMD's FidelityFX Super Resolution 3.1.3a](https://gpuopen.com/learn/ue-fsr3/) is now utilized.
