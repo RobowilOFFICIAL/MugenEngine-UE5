@@ -1,0 +1,29 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXFrameInterpolation.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXFrameInterpolationCustomPresent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXFrameInterpolationModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXFrameInterpolationSlate.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXFrameInterpolationViewExtension.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIDebugViewPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIDisocclusionMask.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIFrameInterpolationPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIFrameInterpolationSetupPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIGameMotionVectorField.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIGameMotionVectorFieldInpainting.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIInpainting.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIInpaintingPyramid.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIOpticalFlowVectorField.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIReconstructAndDilatePass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIReconstructPreviousDepthPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendFIShaders.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendOpticalFlowComputeLumaPyramidPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendOpticalFlowComputeOpticalFlowAdvPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendOpticalFlowComputeSCDDivergencePass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendOpticalFlowFilterOpticalFlowPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendOpticalFlowGenSCDHistogramPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendOpticalFlowPrepareLumaPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendOpticalFlowScaleOpticalFlowAdvPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXFrameInterpolation\\FFXRHIBackendOpticalFlowShaders.cpp.obj"
+	]
+}

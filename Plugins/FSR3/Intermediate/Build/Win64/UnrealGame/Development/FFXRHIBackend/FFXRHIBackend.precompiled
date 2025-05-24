@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXRHIBackend\\FFXRHIApi.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXRHIBackend\\FFXRHIBackend.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXRHIBackend\\FFXRHIBackendModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXRHIBackend\\FFXRHIBackendShaders.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FFXRHIBackend\\FFXRHIBackendSubPass.cpp.obj"
+	]
+}

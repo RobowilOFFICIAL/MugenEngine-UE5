@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FSR3Mov\\FSR3MoviePipelineSettings.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FSR3Mov\\FSR3MovieRenderPipelineModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FSR3Mov\\FSR3MoviePipelineSettings.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FSR3Mov\\FSR3MovieRenderPipeline.init.gen.cpp.obj"
+	]
+}

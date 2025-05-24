@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFrameInterpolationApi\\FFXFrameInterpolationApi.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFrameInterpolationApi\\FFXFrameInterpolationApiModule.cpp.obj"
+	]
+}

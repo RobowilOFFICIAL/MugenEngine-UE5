@@ -1,0 +1,20 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXFSR3TemporalUpscaler.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXFSR3TemporalUpscalerHistory.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXFSR3TemporalUpscalerProxy.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXFSR3TemporalUpscaling.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXFSR3ViewExtension.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRAccumulatePass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRAutogenReactiveMaskPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRDebugViewPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRLumaInstabilityPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRLumaPyramidPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRPrepareInputs.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRPrepareReactivity.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRRCASPass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRShaders.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRShadingChangePass.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXFSR3TemporalUpscaling\\FFXRHIBackendFSRShadingChangePyramidPass.cpp.obj"
+	]
+}

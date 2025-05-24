@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXShared\\FFXShared.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXShared\\FFXSharedBackend.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXShared\\FFXSharedModule.cpp.obj"
+	]
+}

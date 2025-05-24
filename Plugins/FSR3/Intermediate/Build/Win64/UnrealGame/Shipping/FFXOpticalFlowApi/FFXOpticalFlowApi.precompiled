@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXOpticalFlowApi\\FFXOpticalFlowApi.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FFXOpticalFlowApi\\FFXOpticalFlowApiModule.cpp.obj"
+	]
+}
